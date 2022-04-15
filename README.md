@@ -69,7 +69,14 @@ If your project has a lot of features, consider adding a heading called "Feature
 
 At the highest level, I changed the file structure so that the index.html file was at the topmost level 
 I replaced the first top level <div> to use <header> instead and within that, updated the second level <div> to use <nav> instead 
-
+<footer> instead of div
+<section> for jumbotron instead of <div>
+added <alt> for pictures 
+combine css for images in the content class 
+combine css for h2 in the content class
+combine css for three articles in content class into .content article
+deleted class names for three content articles, no longer needed
+move all css for content section to be near eachother 
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them.
