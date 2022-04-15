@@ -77,6 +77,8 @@ combine css for h2 in the content class
 combine css for three articles in content class into .content article
 deleted class names for three content articles, no longer needed
 move all css for content section to be near eachother 
+remove css for p bc it defines the font size as 16 px but that's already the default. 
+
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them.
