@@ -78,6 +78,8 @@ combine css for three articles in content class into .content article
 deleted class names for three content articles, no longer needed
 move all css for content section to be near eachother 
 remove css for p bc it defines the font size as 16 px but that's already the default. 
+made sure heading tags were used/nested appropraitely
+made white default font in universal, then set footer color to black and removed white color from all children 
 
 ## Tests
 
