@@ -80,6 +80,8 @@ move all css for content section to be near eachother
 remove css for p bc it defines the font size as 16 px but that's already the default. 
 made sure heading tags were used/nested appropraitely
 made white default font in universal, then set footer color to black and removed white color from all children 
+moved font family to top except header and footer 
+hard set height and width for images, removed max height properties 
 
 ## Tests
 

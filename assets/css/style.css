@@ -76,7 +76,8 @@ a {
 }
 
 .content img {
-    max-height: 200px;
+    height: 200px;
+    width: 300px;
 }
 
 .content h2 {
@@ -102,7 +103,7 @@ a {
     float: right;
     width: 20%;
     height: 100%;
-    background-color: #2589bd;
+    background-color: #165efc;
 }
 
 .benefits article {
@@ -117,7 +118,8 @@ a {
 .benefits img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    width: 150px;
+    height: 150px;
 }
 /*Benefits Section Style End*/
 
