@@ -68,7 +68,7 @@ a {
     margin-left: 20px;
 }
 
-.content article {
+.content div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -76,7 +76,8 @@ a {
 }
 
 .content img {
-    height: 200px;
+    height: 200px;  
+    width: auto;
 }
 
 .content h2 {
