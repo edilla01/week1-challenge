@@ -82,6 +82,8 @@ made sure heading tags were used/nested appropraitely
 made white default font in universal, then set footer color to black and removed white color from all children 
 moved font family to top except header and footer 
 hard set height and width for images, removed max height properties 
+reordered file structure 
+added meta descrition and meta viewport
 
 ## Tests
 
